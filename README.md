@@ -41,7 +41,7 @@ Be aware of scammers. Never send strangers money / private keys.
 
 ### Node.js WASM
 
-- [npmjs.com/@aleohq/sdk](https://www.npmjs.com/package/@aleohq/sdk) or GitHub [aleoHQ/aleo](https://github.com/AleoHQ/aleo) - A developer framework to make it simple to create a new account, craft a transaction, and broadcast it to the network
+- [@aleohq/sdk](https://www.npmjs.com/package/@aleohq/sdk) or GitHub [aleoHQ/aleo](https://github.com/AleoHQ/aleo) - A developer framework to make it simple to create a new account, craft a transaction, and broadcast it to the network
 - [@qqmee/sdk-account-nodejs](https://www.npmjs.com/package/@qqmee/sdk-account-nodejs) or GitHub [qqmee/sdk-account-nodejs](https://github.com/qqmee/aleo-sdk) - Light SDK (60 KiB) to create a new account. Packages for Node.js, web, webpack.
 
 [Back to top](#awesome-aleo)
